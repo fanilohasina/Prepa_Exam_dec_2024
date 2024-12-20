@@ -7,7 +7,6 @@ use Flight;
 class WelcomeController {
 
 	public function __construct() {
-
 	}
 
 
